@@ -36,7 +36,7 @@ Hello, my name is Daniel. I am a Software Engineer.
 ![](https://github-readme-stats.vercel.app/api?username=realTechmaniac&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=realTechmaniac&theme=dark&hide_border=true)<br/>
 <a href="https://github.com/realTechmaniac/realTechmaniac">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realTechmaniac&title_color=ffffff&hide=blade,less,ejs,shell,hack,scss,html,css&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=true&&langs_count=4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realTechmaniac&title_color=ffffff&hide=blade,vue,less,ejs,shell,hack,scss,html,css&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=true&&langs_count=6" />
 </a>
 <!---![](https://github-readme-stats.vercel.app/api/top-langs/?username=realTechmaniac&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
 
