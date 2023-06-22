@@ -38,7 +38,7 @@ Hello, my name is Daniel. I am a Software Engineer.
 <a href="https://github.com/realTechmaniac/realTechmaniac">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realTechmaniac&title_color=ffffff&hide=blade,shell,hack,scss,html,css&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=true&&langs_count=4" />
 </a>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=realTechmaniac&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<--- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=realTechmaniac&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
 
 <!-- 
 Here are some ideas to get you started:
