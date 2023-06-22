@@ -33,12 +33,12 @@ Hello, my name is Daniel. I am a Software Engineer.
 
 <h1>📊 GitHub Stats</h1>
 
-![](https://github-readme-stats.vercel.app/api?username=suruabiye&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=suruabiye&theme=dark&hide_border=true)<br/>
-<a href="https://github.com/suruabiye/suruabiye">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suruabiye&title_color=ffffff&hide=blade,shell,hack,scss,html,css&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=true&&langs_count=4" />
+![](https://github-readme-stats.vercel.app/api?username=realTechmaniac&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=realTechmaniac&theme=dark&hide_border=true)<br/>
+<a href="https://github.com/realTechmaniac/realTechmaniac">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ealTechmaniac&title_color=ffffff&hide=blade,shell,hack,scss,html,css&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=true&&langs_count=4" />
 </a>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suruabiye&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ealTechmaniac&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <!-- 
 Here are some ideas to get you started:
