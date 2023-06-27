@@ -7,7 +7,7 @@ Hello, my name is Daniel. I am a Software Engineer.
 
 - :seedling: Exploring Node JS. Looking to collaborate and build awesome project.
 
-- :zap: In my free time, I sing.
+- :zap: In my free time, I play the piano.
 </p>
 
  ## Let's Connect
