@@ -38,7 +38,7 @@ Hello, my name is Daniel. I am a Software Engineer.
 <a href="https://github.com/brainydee/brainydee">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brainydee&title_color=ffffff&hide=blade,vue,less,ejs,shell,hack,scss,html,css&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=true&&langs_count=6" />
 </a>
-<!-- [![Golden's github stats](https://github-readme-stats.vercel.app/api?username=brainydee)](https://github.com/brainydee/github-readme-stats). -->
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brainydee)](https://github.com/brainydee/github-readme-stats) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brainydee&layout=compact"/>
 <img src="https://github-readme-stats.vercel.app/api?username=brainydee&show_icons=true&layout=compact"/>
